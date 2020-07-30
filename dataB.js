@@ -151,7 +151,7 @@ var beta = [{
     {
         "name": "U3Zlbg==",
         "species": "Sheep",
-        "story": "Though people describe him as calm and collected, never once losing his cool, Shawn the Sheep Cubie’s personality is actually closer to the fact that he ignores most things unless they are a huge interest to him. Though oblivious to many, many things, Shawn is never oblivious of grass, his favorite food as well as his favorite place to rest. He also never ignores his family and friends, his very top priorities. Other people, you ask? Well... Honestly, they are practically nonexistent to Shawn."
+        "story": "Though people describe him as calm and collected, never once losing his cool, Sven the Sheep Cubie’s personality is actually closer to the fact that he ignores most things unless they are a huge interest to him. Though oblivious to many, many things, Sven is never oblivious of grass, his favorite food as well as his favorite place to rest. He also never ignores his family and friends, his very top priorities. Other people, you ask? Well... Honestly, they are practically nonexistent to Sven."
     },
     {
         "name": "UGVuZWxvcGU=",
@@ -327,5 +327,30 @@ var beta = [{
         "name": "TWlsYQ==",
         "species": "Mouse",
         "story": "As the youngest of seven pups, Mila the Mouse Cubie has been babied ever since she could remember. Her older brothers stop their horseplay whenever she comes near, and her older sisters fawn over her whenever they see her. They were less smothering when the second youngest, Mika, was still alive, but ever since she was caught in a rat trap and killed, her family has gotten paranoid to the extreme. Sometimes Mila hates how overprotective they are, but she deals with it; after all, they are her family."
+    },
+    {
+        "name": "U3RlcGhhbg==",
+        "species": "Stump",
+        "story": "A couple decades ago, Stephan the Stump Cubie wasn’t a stump but a tree instead, tall and leafy with strong, sturdy branches, located in the middle of a forest. However, on one particularly cold winter, a family living nearby cut him down to use him as firewood, leaving only a stump behind. Ever since then, Stephan has been in full pouting mode, just waiting for a chance to regrow into the huge tree he was before."
+    },
+    {
+        "name": "TWF0ZW8=",
+        "species": "Monkey",
+        "story": "Around 40 millions years ago, monkeys inhabited Africa as Old World monkeys, including Mateo the Monkey Cubie and his friends. They were living together at the tip of South Africa when an intense storm caused the tip to chip off, blowing them out to the Atlantic. Eventually, this tip of Africa arrived in South America, where Mateo settled with his friends as New World monkeys. Despite his playful exterior, Mateo is quite serious. He is a deep thinker who spends his days wondering about life and philosophy. In fact, he is one of the smartest Monkey Cubies in the world."
+    },
+    {
+        "name": "SGltYQ==",
+        "species": "Yeti",
+        "story": "Though people consider yetis legends and folklore originating from the Himalayas, the opposite is true. Hima the Yeti Cubie is quite real, alive and well, despite having lived for a couple thousand years. Just as the legends say, Hima is a monstrous bipedal creature that inhabits Sherpa, a group of communities located in eastern Nepal. Having lived all his life hiding from humans, he is quite antisocial and awkward around others."
+    },
+    {
+        "name": "U3BlbmNl",
+        "species": "Spice",
+        "story": "When people use the word “salty” to describe someone, it probably means that they are, to some degree, upset and bitter. In the case of Spence the Salt and Pepper Set Cubie, however, salty describes him both literally and figuratively. Seriously sarcastic with a dry sense of humor, Spence isn’t someone you’d ever want to annoy."
+    },
+    {
+        "name": "UGVsZQ==",
+        "species": "Phoenix",
+        "story": "According to Ancient Greek folklore, a Phoenix is a long-living bird that obtains new life through the ashes of its predecessor after it dies in a show of flames. Though there are slight differences from tale to tale, all of them ring true for Phoenix Cubies like Pele. Ancient and medieval literature and artwork each depict the Phoenix differently, from halos to crests of feathers, but Pele and her friends are rather simple-looking. With orange feathers, glowing yellow eyes, and a golden beak, Pele isn’t gaudy, nor does she carry ornaments on her."
     }
 ]

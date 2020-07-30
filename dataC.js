@@ -1,4 +1,5 @@
 var gamma = {
+    "QXVyZWxpZQ==": ["MjgzN0hoYQ==", 2],
     "TW9sdG9u": ["Sks4N3Nk", 1],
     "Q2Fzc2ll": ["OTlPTEtz", 4],
     "QXp1cmU=": ["OThFVVlz", 3],
@@ -63,5 +64,10 @@ var gamma = {
     "Q2hhc2U=": ["UGVxODI=", 2],
     "R3JhbnQ=": ["T29xcGE=", 4],
     "T3NjYXI=": ["ekFzZDk=", 4],
-    "TWlsYQ==": ["cHFhYVI=", 4]
+    "TWlsYQ==": ["cHFhYVI=", 4],
+    "U3RlcGhhbg==": ["YVZuZDg=", 4],
+    "TWF0ZW8=": ["QXFlcDA=", 4],
+    "SGltYQ==": ["dzJPaWE=", 3],
+    "U3BlbmNl": ["THZzOVE=", 4],
+    "UGVsZQ==": ["YmU4d1E=", 2]
 };

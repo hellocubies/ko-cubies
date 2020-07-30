@@ -393,5 +393,35 @@ var alpha = [{
         "cubie-rarity": "Q29tbW9u",
         "cubie-img": "VXE5MVY=",
         "cubie-season": "season-3"
+    },
+    {
+        "cubie-name": "U3RlcGhhbg==",
+        "cubie-rarity": "Q29tbW9u",
+        "cubie-img": "dUUzNzI=",
+        "cubie-season": "season-3"
+    },
+    {
+        "cubie-name": "TWF0ZW8=",
+        "cubie-rarity": "Q29tbW9u",
+        "cubie-img": "SmhzNzI=",
+        "cubie-season": "season-3"
+    },
+    {
+        "cubie-name": "SGltYQ==",
+        "cubie-rarity": "UmFyZQ==",
+        "cubie-img": "Z1ZlNjI=",
+        "cubie-season": "season-3"
+    },
+    {
+        "cubie-name": "U3BlbmNl",
+        "cubie-rarity": "Q29tbW9u",
+        "cubie-img": "elM4UWE=",
+        "cubie-season": "season-3"
+    },
+    {
+        "cubie-name": "UGVsZQ==",
+        "cubie-rarity": "RXBpYw==",
+        "cubie-img": "dHZzcUk=",
+        "cubie-season": "season-3"
     }
 ]
